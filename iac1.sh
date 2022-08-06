@@ -129,9 +129,9 @@ mkdir /sec
 
 
 #######
-# 8 - Todos os usuários terão permissão total dentro do diretório publico;
-# 9 - Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
-# 10 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
+# //TDC -> 8 - Todos os usuários terão permissão total dentro do diretório publico;
+# //TDC -> 9 - Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
+# //TDC -> 10 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 #######
 
 echo "Especificando permissões dos diretórios...."
