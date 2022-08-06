@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# Desafio de Projeto Bash Script para IaC da DIO
 Repositório criado para o Desafio de Projeto Bash Script para IaC (Infrastructure as Code) da [DIO](https://web.dio.me/) referente ao Bootcamp - Linux Experience
 
 <br />
