@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto Bash Script para IaC da [DIO](https://web.dio.me/) referente ao Bootcamp - Linux Experience
+Repositório criado para o Desafio de Projeto Bash Script para IaC (Infrastructure as Code) da [DIO](https://web.dio.me/) referente ao Bootcamp - Linux Experience
 
 <br />
 
@@ -21,5 +21,7 @@ Repositório criado para o Desafio de Projeto Bash Script para IaC da [DIO](http
 <br />
 
 ## Links Úteis
+
+[Inscreva-se na Dio](https://dio.me/sign-up?ref=M87RWQPGJO)
 
 [OpenSSL Man](https://www.openssl.org/docs/man3.0/man1/openssl-passwd.html)
