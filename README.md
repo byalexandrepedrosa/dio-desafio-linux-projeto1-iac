@@ -13,7 +13,7 @@ Repositório criado para o Desafio de Projeto Bash Script para IaC (Infrastructu
 - Deve-se criar os grupos GRP_AMD, GRP_VEN, GRP_SEC; :heavy_check_mark:
 - Deve-se criar os usuários carlos, maria, joao, debora, sebastiana, josefina, amanda, rogerio; :heavy_check_mark:
 - O dono de todos os diretórios criados será o usuário root; :heavy_check_mark:
-- Demais atruibuições devem seguir a imagem do slide do desafio; :heavy_check_mark:
+- Demais atruibuições devem seguir a imagem do arquivo estrutura.jpg; :heavy_check_mark:
 - Todos os usuários terão permissão total dentro do diretório publico; :heavy_check_mark:
 - Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório; :heavy_check_mark:
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem; :heavy_check_mark:
