@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto Bash Script para IaC (Infrastructu
 
 <br />
 
-**Requerimentos do Objetivo:**
+**Requerimentos do Desafio:**
 
 <br />
 
