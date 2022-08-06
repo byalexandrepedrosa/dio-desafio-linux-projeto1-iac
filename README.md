@@ -17,6 +17,8 @@ Repositório criado para o Desafio de Projeto Bash Script para IaC (Infrastructu
 
 <br />
 
+### Detalhes do Módulo:
+
 **Instrutor:** [Denilson Bonatti](https://www.linkedin.com/in/denilsonbonatti/) - [Digital Innovation One](https://web.dio.me/).
 
 **Pré-requisitos:** Conhecimentos básicos em Linux.
